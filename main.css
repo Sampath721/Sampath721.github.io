@@ -49,7 +49,7 @@ img{
   100%{opacity: 1;}
   
 }
-.card-1,.card-2,.card-3,.card-4{
+.card-1,.card-2,.card-3,.card-4,card-5,card-6{
   width: 90%;
   height: 400px;
   display: flex;
